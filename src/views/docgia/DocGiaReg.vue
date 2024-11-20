@@ -1,6 +1,6 @@
 <template>
     <div v-if="DocGia">
-    <h1>Đăng ký đọc giả</h1>
+    <h1>Đăng Ký Độc Giả</h1>
     <DocGiaForm
         :DocGia="DocGia"
         @submit:DocGia="addDocGia"

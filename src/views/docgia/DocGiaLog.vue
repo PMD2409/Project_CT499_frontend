@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>
-            Đăng nhập độc giả
+            Đăng Nhập Độc Giả
         </h1>
         <form @submit="login">
           <!-- <input type="text" class="form-control m-auto w-25" id="username" v-model="tenDocGia" required/>
